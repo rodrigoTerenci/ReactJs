@@ -1,0 +1,23 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "ReactJs - For Study and Learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoTerenci/ReactJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoTerenci/ReactJs/issues"
+  },
+  "homepage": "https://github.com/rodrigoTerenci/ReactJs#readme",
+  "devDependencies": {
+    "webpack": "^5.47.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
