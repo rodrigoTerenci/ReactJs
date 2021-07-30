@@ -2,9 +2,10 @@
   "name": "reactjs",
   "version": "1.0.0",
   "description": "ReactJs - For Study and Learn",
-  "main": "index.js",
+  "main": "test.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
