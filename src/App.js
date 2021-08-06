@@ -6,7 +6,7 @@ const App = () =>{
         <div>
             <p>Rodriguinho WeB</p>
             <h2>Desenvolvimento Divertido</h2>
-            
+            <Button />
         </div>
     )
 };
