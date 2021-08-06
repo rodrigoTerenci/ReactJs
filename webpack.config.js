@@ -29,6 +29,9 @@ module.exports = {
       compress: true,
       port: 9000,
     },
+    resolve:{
+      extensions:['.js','.jsx']
+    },
     plugins:[
         new HtmlWebPackPlugins({
             template:"./src/index.html",
