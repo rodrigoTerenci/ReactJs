@@ -7,13 +7,13 @@ const buttonB = <button>Cadastrar Cliente  </button>
 
 const hasCustumer = true
 const App = () =>{
-    const renderShowHistory = (
+    /*const renderShowHistory = (
         <div> 
              <p>Clique no botão abaixo para visualizar o hitórico dos clientes</p>
              <br/>
              {buttonA}
          </div>
-    )
+    )*/
     const renderAddCustomer = (
         <div>
             Clique aqui para cadastra um novo Cliente
@@ -25,7 +25,8 @@ const App = () =>{
         <div>
             <p>Rodriguinho WeB</p>
             <h2>Desenvolvimento Divertido</h2>
-            {hasCustumer ? renderShowHistory() : renderAddCustomer()}
+            {renderAddCustomer}
+           {/*/hasCustumer ? renderShowHistory() : renderAddCustomer()*/}
             {/* <Button /> */}
         </div>
     )
