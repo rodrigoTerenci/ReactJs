@@ -5,15 +5,15 @@ const buttonA = <button>Historico do Clientes</button>
 
 const buttonB = <button>Cadastrar Cliente  </button>
 
-const hasCustumer = true
+const hasCustumer = false
 const App = () =>{
-    /*const renderShowHistory = (
+    const renderShowHistory = (
         <div> 
-             <p>Clique no botão abaixo para visualizar o hitórico dos clientes</p>
+             Clique no botão abaixo para visualizar o hitórico dos clientes
              <br/>
              {buttonA}
          </div>
-    )*/
+    )
     const renderAddCustomer = (
         <div>
             Clique aqui para cadastra um novo Cliente
@@ -25,8 +25,8 @@ const App = () =>{
         <div>
             <p>Rodriguinho WeB</p>
             <h2>Desenvolvimento Divertido</h2>
-            {renderAddCustomer}
-           {/*/hasCustumer ? renderShowHistory() : renderAddCustomer()*/}
+            {/*renderAddCustomer*/}
+            {hasCustumer ? renderShowHistory : renderAddCustomer}
             {/* <Button /> */}
         </div>
     )
