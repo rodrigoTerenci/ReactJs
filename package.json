@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack --mode production",
     "dev": "webpack --mode development",
-    "start:dev": "webpack server",
+    "start-dev": "webpack server",
     "watch": "webpack --watch",
     "eslint": "eslint ./src/*.js"
   },
