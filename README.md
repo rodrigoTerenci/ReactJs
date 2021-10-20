@@ -1,4 +1,8 @@
-# ReactJs  ![React](https://user-images.githubusercontent.com/45578535/138135584-9dc9d97b-642e-43bd-a4fb-0c8594ff8442.png)
+# ReactJs  ![React](https://user-images.githubusercontent.com/45578535/138135584-9dc9d97b-642e-43bd-a4fb-0c8594ff8442.png#thumbnail)
+img[src*="#thumbnail"] {
+   width:150px;
+   height:100px;
+}
 
 
 ReactJs - For Study and Learn
