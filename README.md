@@ -1,4 +1,4 @@
-# ReactJs  ![React](https://user-images.githubusercontent.com/45578535/138135584-9dc9d97b-642e-43bd-a4fb-0c8594ff8442.png#thumbnail)
+# ReactJs  ![React](https://user-images.githubusercontent.com/45578535/138135584-9dc9d97b-642e-43bd-a4fb-0c8594ff8442.png){width:30%}
 img[src*="#thumbnail"] {
    width:150px;
    height:100px;
