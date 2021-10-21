@@ -1,5 +1,4 @@
-# ReactJs  ![React](https://user-images.githubusercontent.com/45578535/138135584-9dc9d97b-642e-43bd-a4fb-0c8594ff8442.png){width:150px;
-   height:100px;}
+# ReactJs  [<img align="right" alt="ReactJs" width="50px" src="https://user-images.githubusercontent.com/45578535/138135584-9dc9d97b-642e-43bd-a4fb-0c8594ff8442.png"/>]
 
 
 
