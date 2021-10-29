@@ -5,8 +5,11 @@
 ReactJs - For Study and Learn
 
 <section>
-  <h2>Maneiras de Estilização</h2>
-  <h3>Inline</h3>
+  <header>
+    <h2>Maneiras de Estilização</h2>
+  </header>
+   <article><h3>Inline</h3></article>
+   
   <h3>Classes</h3>
   <h3>CSS in JS</h3>
 </section>
