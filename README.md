@@ -4,10 +4,12 @@
 
 ReactJs - For Study and Learn
 
-<h2>Maneiras de Estilização</h2>
-<h3>Inline</h3>
-<h3>Classes</h3>
-<h3>CSS in JS</h3>
+<section>
+  <h2>Maneiras de Estilização</h2>
+  <h3>Inline</h3>
+  <h3>Classes</h3>
+  <h3>CSS in JS</h3>
+</section>
 
 https://github.com/babel/babel-loader/issues/789;
 https://github.com/webpack/webpack-dev-server/issues/2029#issuecomment-707196728
