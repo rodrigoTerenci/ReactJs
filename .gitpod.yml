@@ -1,6 +1,10 @@
+# List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
+tasks:
+  - before: nvm install 14.5
+  - init: npm install # runs during prebuild
+    command: npm run start-dev
+
+# List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
 ports:
   - port: 3000
     onOpen: open-preview
-tasks:
-  - #before: if [[ -z "$experiment" ]]; then cd playground/1st-proof-of-concept; else cd playground/$experiment; fi
-    command: nvm install 14.5 && npm install && npm start-dev
