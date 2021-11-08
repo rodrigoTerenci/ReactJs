@@ -26,7 +26,7 @@ const App = () =>{
             <button onClick={() => addItem('paranoia')}>+</button>
         </div>
     )
-    const formAddCostumer =(
+    const formAddCostumer = (
         <div>
             <form onSubmit={this.renderAddCustomer} style={{display:'flex', width:'50vw', height:'50vh', 
             backgroundColor:'black', opacity:50}}>
